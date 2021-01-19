@@ -10,5 +10,4 @@ a figure of speech involving the comparison of one thing with another thing of a
 the use of simile.
 "his audacious deployment of simile and metaphor"
 
-Definitions from Oxford Languages
-[a link](https://languages.oup.com/google-dictionary-en)
+[Definitions from Oxford Languages](https://languages.oup.com/google-dictionary-en)
